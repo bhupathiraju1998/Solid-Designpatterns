@@ -1,0 +1,23 @@
+🏗️ Creational Patterns
+
+Creational patterns focus on:
+
+“HOW objects are created.”
+
+They solve problems related to:
+
+object instantiation
+initialization
+creation complexity
+lifecycle management
+Examples you already learned
+Pattern	Purpose
+Factory	create objects
+Builder	construct complex objects
+Singleton	ensure one instance
+Prototype	clone existing objects
+Mental model
+
+Creational patterns answer:
+
+"How should this object come into existence?"

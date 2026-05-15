@@ -1,0 +1,20 @@
+🧱 Structural Patterns
+
+Structural patterns focus on:
+
+“HOW objects/classes are organized and connected.”
+
+They solve problems related to:
+
+simplifying systems
+reducing coupling
+wrapping complexity
+composing objects together
+Examples of structural patterns
+Pattern	Purpose
+Facade	simplified interface
+Adapter	convert incompatible interfaces
+Decorator	add behavior dynamically
+Composite	tree-like object structures
+Proxy	controlled access
+Bridge	separate abstraction from implementation

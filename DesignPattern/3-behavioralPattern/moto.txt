@@ -1,0 +1,20 @@
+Behavioral patterns focus on:
+
+“HOW objects communicate and behave.”
+
+They solve runtime interaction problems.
+
+Examples
+Pattern	Purpose
+Strategy	interchangeable behaviors
+Observer	event subscriptions
+Command	encapsulate actions
+State	behavior changes by state
+Chain of Responsibility	pass requests through handlers
+
+
+| Category   | Focus                       |
+| ---------- | --------------------------- |
+| Creational | object creation             |
+| Structural | object composition          |
+| Behavioral | object interaction/behavior |
